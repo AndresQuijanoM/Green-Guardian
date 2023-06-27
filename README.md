@@ -13,7 +13,7 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 - [Licencia](#licencia)
 
 # Inicio
-Contenido de la sección "Inicio".
+##Integrantes 
 
 # Descripción
 Contenido de la sección "Descripción".
