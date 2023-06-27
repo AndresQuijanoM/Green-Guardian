@@ -6,6 +6,7 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 
 - [Inicio](#inicio)
 - [Descripción](#descripción)
+- [Perifericos](#perifericos)
 - [Problematica](#problematica)
 - [Antecedentes](#antecedentes)
 - [Objetivos](#objetivos)
@@ -22,6 +23,17 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 
 # Descripción
 Contenido de la sección "Descripción".
+
+## Parametros de funcionamiento
+
+# Perifericos
+
+## Perifericos de entrada
+
+## Perifericos de salida
+
+## Modelos
+
 
 # Problematica
 Alrededor del mundo, los incendios forestales son la causa primordial de la destrucción masiva de importantes bosques, además, de comprometer vida silvestre, bienes materiales e incluso vidas humanas que habitan en los lugares aledaños. El origen de esta catástrofe se remite a la propagación directa e indirecta de una llama que crece sin control a través de la zona urbana, poniendo en riesgo el ecosistema. 
