@@ -71,7 +71,7 @@ Actualmente existen varios programas o proyectos desarrollados con el fin de det
 ![](Imagenes/cajas.png)
 
 # Evidencia
-
+![](Imagenes/ImagenP.jpeg)
 
 # Referencias
 + [1] J. Rosero, “Efectos de los incendios forestales en las propiedades del suelo. Estado del arte,” Cuaderno activa, 2013. [Online]. Available: https://ojs.tdea.edu.co/index.php/cuadernoactiva/article/view/130/115. [Accessed: 06-May-2023]. 
