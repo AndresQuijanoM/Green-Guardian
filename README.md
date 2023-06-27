@@ -25,7 +25,7 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 ![](Imagenes/Proyecto4.jpg)
 
 # Descripción
-Contenido de la sección "Descripción".
+Green Guardian es un dispositivo encargado de la prevención y evaluación de incendios forestales, todo con el fin de ayudar a comunidades aledañas a dichos desastres.
 
 ## Parametros de funcionamiento
 ### Rangos de temperatura (AUMENTO CON RESPECTO A LA INTENSIDAD):
