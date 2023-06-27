@@ -20,6 +20,9 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 - Julian Leonardo Robles Cabanzo
 ## Imagen del proyecto
 ![](Imagenes/Proyecto1.jpg)
+![](Imagenes/Proyecto2.jpg)
+![](Imagenes/Proyecto3.jpg)
+![](Imagenes/Proyecto4.jpg)
 
 # Descripción
 Contenido de la sección "Descripción".
