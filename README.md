@@ -19,7 +19,7 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 - Andres Felipe Quijano Montenegro
 - Julian Leonardo Robles Cabanzo
 ## Imagen del proyecto
-![](Imagenes/imagen_p.png)
+![](Imagenes/Proyecto1.jpg)
 
 # Descripción
 Contenido de la sección "Descripción".
