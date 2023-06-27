@@ -53,7 +53,7 @@ Actualmente existen varios programas o proyectos desarrollados con el fin de det
 + Implementar un sistema de alerta rápido e intuitivo según el posible riesgo de incendio.
 
 # Diagramas
-![](Imagenes/imagen_d.png)
+![](Imagenes/cajas.png)
 
 # Evidencia
 
