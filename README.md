@@ -28,14 +28,43 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 Contenido de la sección "Descripción".
 
 ## Parametros de funcionamiento
+### Rangos de temperatura (AUMENTO CON RESPECTO A LA INTENSIDAD):
+
+| TEMPERATURA (°C) | INTENSIDAD |
+| --- | --- |
+| Menor a 28 | 0 |
+| Mayor e igual a 28 | 1 |
+
+### Rangos de presencia de humo (AUMENTO CON RESPECTO A LA FRECUENCIA):
+
+| PRESENCIA DE HUMO | Frecuencia |
+| --- | --- |
+| SÍ | 2 Hz |
+| No | 0 |
+
+********************EN EL DISPLAY 7 SEGMENTOS SE MUESTRA EL NIVEL DE PROPAGACION DEL INCENDIO.********************
 
 # Perifericos
 
 ## Perifericos de entrada
+1. Sensor de temperatura: Es necesario implementar un sensor que pueda determinar si la temperatura en el bosque esta aumentando debido a un incendio.
+2. Sensor de humedad: Verificar la humedad relativa del bosque, ya que, de ser alta hay menos probabilidad de ingnición en el bosque.
+3. Sensor de humo : Para confirmar el caso de incendio y la quema de materia, el sensor de gas (humo) permite saber si hay y que tipo de gases hay.
+4. Sensor de viento (anemómetro casero)
 
 ## Perifericos de salida
+1. Bombilla : Alertar con precision el area en la cual esta sucediendo la emergencia, la idea es ubicarla en una sitio con la mejor visibilidad.
+2. Parlante : Emite sonidos dependiendo del tipo y estado de emergencia.
+3. Modulo de conectividad : Puede ser un modulo Wifi o Bluetooth, para permitir la interacion a una aplicación muy sencilla a un dispositivo cercano.
 
 ## Modelos
+1. Sensor de temperatura/humedad: Sensor DTH11 (0° - 50°).
+2. Sensor de humo: MQ-2 (GLP, propano, metano, alcohol, hidrógeno, humo).
+3. Anemómetro: Casero (https://www.youtube.com/watch?v=02e59n0ZmRE).
+4. Bombilla: Bombillo Incandescente de 100 W.
+5. Parlante: Buzzer de la FPGA
+6. Módulo de conectividad: Módulo Bluetooth para Arduino.
+7. Aplicación (AppInventor2).
 
 
 # Problematica
