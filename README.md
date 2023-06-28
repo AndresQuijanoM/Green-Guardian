@@ -104,16 +104,29 @@ Actualmente existen varios programas o proyectos desarrollados con el fin de det
 
 ## Diseño de la aplicación móvil
 La aplicación movil fue desarrollada en el entorno de desarrollo de MIT App Inventor, mediante la cual se realizó todo lo referente a la comunicación entre el Arduino y el módulo Bluetooth, tal y como se observa en el siguiente esquema de bloques:
+
 ![](Imagenes/EsquemaDeBloquesMIT.png)
+
 Además, se realizaron otros controles acerca de errores de conexión con el bluetooth:
+
 ![](Imagenes/EsquemaDeBloquesMIT2.png)
+
 Además, las variables de temperatura, humedad, velocidad de viento y velocidad de viento máxima, fueron puestas en una lista de 4 posiciones, separadas por un ";", tal y como salen del Arduino como tal, esto se observa a continuación:
+
 ![](Imagenes/EsquemaDeBloquesMIT3.png)
+
 Por último se desarrollo la interfaz, la cual es bastante "sencilla", todo con el fin de que el usuario tenga fácil y rápido acceso a la información de los parámetros de interés en tiempo real, esta se puede evidenciar a continuación:
+
 ![](Imagenes/Interfaz.jpeg)
 
+El proyecto exportado en App Inventor (.aia), es el siguiente a petición del docente:
+![](Codigo/ProyectoDigital1.aia)
+
 # Video del proyecto
+
 Link de enlace a Youtube: https://youtu.be/zL8yL_6vqMQ
+
+
 # Referencias
 + [1] J. Rosero, “Efectos de los incendios forestales en las propiedades del suelo. Estado del arte,” Cuaderno activa, 2013. [Online]. Available: https://ojs.tdea.edu.co/index.php/cuadernoactiva/article/view/130/115. [Accessed: 06-May-2023]. 
 + [2]L. Soto Rincón, “Incendios forestales en latinoamérica: Una problemática que preocupa a la región,” Blog Departamento de Derecho del Medio Ambiente, 03-Mar-2023. [Online]. Available: https://medioambiente.uexternado.edu.co/incendios-forestales-en-latinoamerica-una-problematica-que-preocupa-a-la-region/#:~:text=Seg%C3%BAn%20la%20Fundaci%C3%B3n%20para%20la,forestales%20por%20d%C3%ADa%20en%20Colombia. [Accessed: 06-May-2023]. 
