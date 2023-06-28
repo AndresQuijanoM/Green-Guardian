@@ -120,7 +120,7 @@ Por último se desarrollo la interfaz, la cual es bastante "sencilla", todo con 
 ![](Imagenes/Interfaz.jpeg)
 
 El proyecto exportado en App Inventor (.aia), es el siguiente a petición del docente:
-![](Codigo/ProyectoDigital1.aia)
+[](Codigo/ProyectoDigital1.aia)
 
 # Video del proyecto
 
