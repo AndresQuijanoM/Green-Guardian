@@ -12,6 +12,7 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 - [Objetivos](#objetivos)
 - [Diagramas de bloques y de flujo](#diagramas)
 - [Evidencia de la implementación](#evidencia)
+- [Video del proyecto](#video)
 - [Referencias](#referencias)
 
 # Inicio
@@ -53,18 +54,16 @@ Green Guardian es un dispositivo encargado de la prevención y evaluación de in
 4. Sensor de viento (anemómetro casero)
 
 ## Perifericos de salida
-1. Bombilla : Alertar con precision el area en la cual esta sucediendo la emergencia, la idea es ubicarla en una sitio con la mejor visibilidad.
-2. Parlante : Emite sonidos dependiendo del tipo y estado de emergencia.
-3. Modulo de conectividad : Puede ser un modulo Wifi o Bluetooth, para permitir la interacion a una aplicación muy sencilla a un dispositivo cercano.
+1. Buzzer : Emite sonidos dependiendo del tipo y estado de emergencia.
+2. Modulo de conectividad : Puede ser un modulo Wifi o Bluetooth, para permitir la interacion a una aplicación muy sencilla a un dispositivo cercano.
 
 ## Modelos
 1. Sensor de temperatura/humedad: Sensor DTH11 (0° - 50°).
 2. Sensor de humo: MQ-2 (GLP, propano, metano, alcohol, hidrógeno, humo).
 3. Anemómetro: Casero (https://www.youtube.com/watch?v=02e59n0ZmRE).
-4. Bombilla: Bombillo Incandescente de 100 W.
-5. Parlante: Buzzer de la FPGA
-6. Módulo de conectividad: Módulo Bluetooth para Arduino.
-7. Aplicación (AppInventor2).
+4. Parlante: Buzzer de la FPGA
+5. Módulo de conectividad: Módulo Bluetooth para Arduino.
+6. Aplicación (AppInventor2).
 
 
 # Problematica
@@ -100,8 +99,15 @@ Actualmente existen varios programas o proyectos desarrollados con el fin de det
 ![](Imagenes/cajas.png)
 
 # Evidencia
+## Montaje previo a la implementación total de la estructura
 ![](Imagenes/ImagenP.jpeg)
 
+## Diseño de la aplicación móvil
+La aplicación movil fue desarrollada en el entorno de desarrollo de MIT App Inventor, mediante la cual se realizó todo lo referente a la comunicación entre el Arduino y el módulo Bluetooth, tal y como se observa en el siguiente esquema de bloques:
+
+
+# Video del proyecto
+Link de enlace a Youtube: https://youtu.be/zL8yL_6vqMQ
 # Referencias
 + [1] J. Rosero, “Efectos de los incendios forestales en las propiedades del suelo. Estado del arte,” Cuaderno activa, 2013. [Online]. Available: https://ojs.tdea.edu.co/index.php/cuadernoactiva/article/view/130/115. [Accessed: 06-May-2023]. 
 + [2]L. Soto Rincón, “Incendios forestales en latinoamérica: Una problemática que preocupa a la región,” Blog Departamento de Derecho del Medio Ambiente, 03-Mar-2023. [Online]. Available: https://medioambiente.uexternado.edu.co/incendios-forestales-en-latinoamerica-una-problematica-que-preocupa-a-la-region/#:~:text=Seg%C3%BAn%20la%20Fundaci%C3%B3n%20para%20la,forestales%20por%20d%C3%ADa%20en%20Colombia. [Accessed: 06-May-2023]. 
