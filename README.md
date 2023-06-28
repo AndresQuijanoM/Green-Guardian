@@ -113,7 +113,7 @@ Actualmente existen varios programas o proyectos desarrollados con el fin de det
 
 ## Simulación 
 Muestra del funcionamiento del control del Buzzer:
-![](Imagenes/SimulacionB.png)
+![](Imagenes/simulacionB.png)
 
 Muestra del funcionamiento del control del anemómetro:
 ![](Imagenes/SimulacionA.png)
