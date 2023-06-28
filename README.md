@@ -121,7 +121,7 @@ Por último se desarrollo la interfaz, la cual es bastante "sencilla", todo con 
 
 El proyecto exportado en App Inventor (.aia), se encuentra en la siguiente dirección, esto a petición del docente: https://github.com/AndresQuijanoM/Green-Guardian/blob/4b3602337a8aa9c3d53f762306a4b88b4f70a3ae/Codigo/ProyectoDigital1.aia
 
-# Video del proyecto
+# Video
 
 Link de enlace a Youtube: https://youtu.be/zL8yL_6vqMQ
 
