@@ -26,7 +26,7 @@ Repositorio dedicado al proyecto final de Electronica Digital 1 (2022)
 ![](Imagenes/Proyecto4.jpg)
 
 # Descripción
-Green Guardian es un dispositivo encargado de la prevención y evaluación de incendios forestales, todo con el fin de ayudar a comunidades aledañas a dichos desastres.
+Green Guardian es un dispositivo encargado de la prevención y evaluación de incendios forestales, diseñado para porteger y ayudar a las comunidades que se encuentran cerca a zonas con alta probabilidad de sufrir estos desastres naturales. Con un enfoque en la seguridad y la conservación del medio ambiente, Green Guardian utiliza diversos perifericos que están enfocados en la eficiencia para convatir dichos desastres.
 
 ## Parametros de funcionamiento
 ### Rangos de temperatura (AUMENTO CON RESPECTO A LA INTENSIDAD):
@@ -119,8 +119,7 @@ Por último se desarrollo la interfaz, la cual es bastante "sencilla", todo con 
 
 ![](Imagenes/Interfaz.jpeg)
 
-El proyecto exportado en App Inventor (.aia), es el siguiente a petición del docente:
-[](Codigo/ProyectoDigital1.aia)
+El proyecto exportado en App Inventor (.aia), se encuentra en la siguiente dirección, esto a petición del docente: https://github.com/AndresQuijanoM/Green-Guardian/blob/4b3602337a8aa9c3d53f762306a4b88b4f70a3ae/Codigo/ProyectoDigital1.aia
 
 # Video del proyecto
 
