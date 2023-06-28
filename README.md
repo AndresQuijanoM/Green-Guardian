@@ -43,7 +43,15 @@ Green Guardian es un dispositivo encargado de la prevención y evaluación de in
 | SÍ | 2 Hz |
 | No | 0 |
 
-********************EN EL DISPLAY 7 SEGMENTOS SE MUESTRA EL NIVEL DE PROPAGACION DEL INCENDIO.********************
+### Nivel de propagación del incendio (display):
+
+| VELOCIDAD (KM/H) | Nivel de propagación |
+| --- | --- |
+| V < 20 | 1 |
+| 20 <= V < 40 | 2 |
+| V >= 40 | 3 |
+
+En el display 7 segmentos se muestra el nivel de propagación del incendio.
 
 # Perifericos
 
@@ -55,7 +63,8 @@ Green Guardian es un dispositivo encargado de la prevención y evaluación de in
 
 ## Perifericos de salida
 1. Buzzer : Emite sonidos dependiendo del tipo y estado de emergencia.
-2. Modulo de conectividad : Puede ser un modulo Wifi o Bluetooth, para permitir la interacion a una aplicación muy sencilla a un dispositivo cercano.
+2. Display 7 segmentos : Muestra el nivel de propagación del incendio según la velocidad del viento.
+3. Modulo de conectividad : Es un modulo Bluetooth, para permitir la interacion a una aplicación muy sencilla a un dispositivo cercano.
 
 ## Modelos
 1. Sensor de temperatura/humedad: Sensor DTH11 (0° - 50°).
@@ -91,7 +100,7 @@ Actualmente existen varios programas o proyectos desarrollados con el fin de det
 ## Objetivo principal
 + Crear un prototipo de un dispositivo que tenga la capacidad de alertar a una comunidad aledaña a un bosque, la emisión y propagación de fuego sobre la vegetación del ecosistema.
 ## Objetivos secundarios
-+ Aprender a implementar diversos sensores (temperatura, distancia,etc) en conjunto con una tarjeta de desarrollo Altera Cyclone IV. 
++ Aprender a implementar diversos sensores (temperatura, humo,etc) en conjunto con una tarjeta de desarrollo Altera Cyclone IV. 
 + Desarrollar una interfaz sencilla pero muy completa para que el usuario pueda interactuar con el dispositivo.
 + Implementar un sistema de alerta rápido e intuitivo según el posible riesgo de incendio.
 
@@ -101,6 +110,14 @@ Actualmente existen varios programas o proyectos desarrollados con el fin de det
 # Evidencia
 ## Montaje previo a la implementación total de la estructura
 ![](Imagenes/ImagenP.jpeg)
+
+## Simulación 
+Muestra del funcionamiento del control del Buzzer:
+![](Imagenes/SimulacionB.png)
+
+Muestra del funcionamiento del control del anemómetro:
+![](Imagenes/SimulacionA.png)
+
 
 ## Diseño de la aplicación móvil
 La aplicación movil fue desarrollada en el entorno de desarrollo de MIT App Inventor, mediante la cual se realizó todo lo referente a la comunicación entre el Arduino y el módulo Bluetooth, tal y como se observa en el siguiente esquema de bloques:
